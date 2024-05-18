@@ -1,0 +1,97 @@
+/*external.css*/
+
+body{
+	font-family: Arial, sans-serif;
+	background-color: moccasin;
+}
+h1{
+	
+}
+h2{
+	color: ghostwhite; font-size: 100px;margin-inline: 400px;
+}
+
+.row{
+	display:flex;
+	width: 70%;
+	margin-inline: 195px;
+}
+.col{
+	flex:1;
+	padding: 30px;
+	margin-inline: 10px;
+	background-color: whitesmoke;
+	height: 30px;
+}
+.r{
+	display: flex;
+}
+.c{
+	flex: 1;
+
+}
+.row1{
+	display: flex;
+	width: 100%;
+}
+.col1{
+	flex: 1;
+}
+.wel{
+	background-image: 'D:\Web Page Design\bg.png';
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 300px;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold {
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.vertical-line {
+	 /* Adjust height as needed */
+  }
+  .pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.caveat {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+    
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
